@@ -54,7 +54,7 @@ a:hover { text-decoration: underline; }
 ul { margin: 0.5em 0; padding-left: 1.3em; }
 li { margin-bottom: 0.4em; }
 
-.section { padding: 3.2rem 0; }
+.section { padding-top: 3.2rem; padding-bottom: 3.2rem; }
 .section:not(:last-of-type) { border-bottom: 1px solid var(--border); }
 .section-sub { color: var(--text-muted); margin-top: -0.6em; }
 
